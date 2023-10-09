@@ -1,2 +1,1 @@
-# Social-Networking-Website
-This is a social networking website
+# Social-Networking-website
